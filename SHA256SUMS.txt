@@ -1,0 +1,2 @@
+f1fd9760e0ca1e39eced1b9ad1e6679c530d94b37854abc748599eb3f20b6b8b  TypeFlow-standalone-win-x64.zip
+cd4d1daaab714fc54b34ad60a690fba36a1e1a1fcbb1c3b57f3cf0dd282eccaa  TypeFlow-lan-win-x64.zip
